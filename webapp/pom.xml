@@ -37,7 +37,6 @@
         <artifactId>jakarta.servlet.jsp-api</artifactId>
         <scope>provided</scope>
     /dependency>
-
  </dependencies>
 
 </project>
